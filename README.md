@@ -66,7 +66,7 @@ elmo-hikes/
 
 
 ## Contributors
-- **Hoda Rashedi** - This is the test.
+- **COMP1800** - This is the test2.
 
 ---
 
